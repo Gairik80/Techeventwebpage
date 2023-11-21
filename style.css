@@ -1,0 +1,52 @@
+body{
+    font-family:"Sarala";
+    color: antiquewhite;
+    margin: 0%;
+    background-image: url(/images/background.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+.Heading{
+    margin: 5px 225px;
+    padding: 15px 0px;
+    word-spacing: 10px;
+    text-align: right;
+}
+.container{
+    margin: 0%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.functions{
+    position:relative;
+    bottom: -150px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    text-align: center;
+} 
+.ballebot-img{
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    right: 200px;
+}
+.logo-img{
+    width: 40px;
+    position: absolute;
+    top: 20px;
+    left: 250px;
+}
+.Ballerini-img{
+    width: 200px;
+}
+.btn{
+    font-size: 15px;
+    padding: 0.5em 1.5em;
+    border-radius: 10px;
+    background-color:blanchedalmond;
+    font-family: "Righteous";
+}
