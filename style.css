@@ -2,7 +2,7 @@ body{
     font-family:"Sarala";
     color: antiquewhite;
     margin: 0%;
-    background-image: url(/images/background.svg);
+    background: linear-gradient(to right ,#e3cb9a,#61440c)
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
